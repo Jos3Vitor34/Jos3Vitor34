@@ -55,15 +55,6 @@ Desenvolvedor Python com experiência em soluções digitais, especializado em *
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jos3Vitor34&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jos3Vitor34&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
----
-
 ### 🔗 Contato
 
 <div align="left">
