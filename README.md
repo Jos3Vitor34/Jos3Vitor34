@@ -1,27 +1,26 @@
-### Olá, eu sou o José Vitor! 👋
+### Hi, I'm José Vitor! 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dev-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Localização-Ponta%20Grossa%2C%20PR%20🇧🇷-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Ponta%20Grossa%2C%20PR%20🇧🇷-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
-Desenvolvedor Python com experiência em soluções digitais, especializado em **automação de processos**, **integração de sistemas** e **chatbots inteligentes** (utilizando n8n, REST APIs e OpenAI). Possuo perfil analítico e colaborativo, com foco em produtividade e em entregar códigos eficientes que otimizam o dia a dia das empresas.
+Python Developer with experience in digital solutions, specialized in **process automation**, **system integration**, and **intelligent chatbots** (using n8n, REST APIs, and OpenAI). I possess an analytical and collaborative profile, focusing on productivity and delivering efficient code that optimizes companies' daily operations.
 
 ---
 
-### 🛠️ Hard Skills e Tecnologias
+### 🛠️ Hard Skills & Technologies
 
 <div align="left">
-  <!-- Linguagens & Frameworks -->
+  <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
   <br>
 
-  <!-- Automação & Ferramentas -->
+  <!-- Automation & Tools -->
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -29,7 +28,7 @@ Desenvolvedor Python com experiência em soluções digitais, especializado em *
 
   <br>
 
-  <!-- Bancos de Dados & BI -->
+  <!-- Databases & BI -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -38,24 +37,24 @@ Desenvolvedor Python com experiência em soluções digitais, especializado em *
 
 ---
 
-### 💼 Experiência Profissional
+### 💼 Professional Experience
 
-* **Programador Júnior** na **ESC Automações Digitais Ltda.** *(06/2024 - 01/2026)*
-  * Construção de fluxos de automação no WhatsApp utilizando **n8n**, **REST APIs** e modelos da **OpenAI** para atendimento inteligente.
-  * Desenvolvimento de chatbots, manipulação de dados em **JSON** e integração com dashboards internos.
-  * Automação de planilhas e relatórios de desempenho, reduzindo processos manuais e repetitivos.
-  * Configuração e administração de bancos de dados **SQL**, garantindo eficiência e segurança no armazenamento.
-
----
-
-### 🎓 Educação & Idiomas
-
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Centro Universitário Leonardo da Vinci (UNIASSELVI) *(02/2023 - 12/2026 - Em andamento)*
-* **Idiomas:** Português (Nativo) | Inglês (Avançado — leitura de documentação técnica e escrita de relatórios).
+* **Junior Developer** at **ESC Automações Digitais Ltda.** *(06/2024 - 01/2026)*
+  * Built WhatsApp automation workflows using **n8n**, **REST APIs**, and **OpenAI** models for intelligent customer service.
+  * Developed chatbots, handled **JSON** data manipulation, and integrated internal dashboards.
+  * Automated spreadsheets and performance reports, reducing manual and repetitive processes.
+  * Configured and managed **SQL** databases, ensuring storage efficiency and security.
 
 ---
 
-### 🔗 Contato
+### 🎓 Education & Languages
+
+* **Bachelor's Degree in Systems Analysis and Development** — Leonardo da Vinci University Center (UNIASSELVI) *(02/2023 - 12/2026 - In progress)*
+* **Languages:** Portuguese (Native) | English (Advanced — technical documentation reading and report writing).
+
+---
+
+### 🔗 Contact
 
 <div align="left">
   <a href="mailto:josevitorferreir@gmail.com">
@@ -69,5 +68,8 @@ Desenvolvedor Python com experiência em soluções digitais, especializado em *
   </a>
   <a href="https://github.com/Jos3Vitor34" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jose-vitor-ferreira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
