@@ -20,7 +20,7 @@ Python Developer with experience in digital solutions, specialized in **process 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" hspace="2" vspace="3" />
 
-  <br>
+  <br><br>
 
   <!-- Automation & Tools -->
   <b>Automation & Tools</b>
