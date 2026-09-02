@@ -20,7 +20,7 @@ Python Developer with experience in digital solutions, specialized in **process 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" hspace="2" vspace="3" />
 
-  <br><br>
+  <br style="display: block; margin: 8px 0;">
 
   <!-- Automation & Tools -->
   <b>Automation & Tools</b>
@@ -30,7 +30,7 @@ Python Developer with experience in digital solutions, specialized in **process 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white" hspace="2" vspace="3" />
 
-  <br>
+  <br style="display: block; margin: 8px 0;">
 
   <!-- Databases & ORM -->
   <b>Databases & ORM</b>
@@ -40,7 +40,7 @@ Python Developer with experience in digital solutions, specialized in **process 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/Alembic-3776AB?style=for-the-badge&logo=python&logoColor=white" hspace="2" vspace="3" />
 
-  <br>
+  <br style="display: block; margin: 8px 0;">
 
   <!-- BI & Dashboards -->
   <b>BI & Dashboards</b>
