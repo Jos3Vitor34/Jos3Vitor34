@@ -13,38 +13,28 @@ Python Developer with experience in digital solutions, specialized in **process 
 
 <div align="left">
   <!-- Languages & Frameworks -->
-  <b>Languages & Frameworks</b>
-  <br>
+  <b style="display: block; margin-bottom: 4px;">Languages & Frameworks</b>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" hspace="2" vspace="3" />
 
-  <br style="display: block; margin: 8px 0;">
-
   <!-- Automation & Tools -->
-  <b>Automation & Tools</b>
-  <br>
+  <b style="display: block; margin-top: 14px; margin-bottom: 4px;">Automation & Tools</b>
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white" hspace="2" vspace="3" />
 
-  <br style="display: block; margin: 8px 0;">
-
   <!-- Databases & ORM -->
-  <b>Databases & ORM</b>
-  <br>
+  <b style="display: block; margin-top: 14px; margin-bottom: 4px;">Databases & ORM</b>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/Alembic-3776AB?style=for-the-badge&logo=python&logoColor=white" hspace="2" vspace="3" />
 
-  <br style="display: block; margin: 8px 0;">
-
   <!-- BI & Dashboards -->
-  <b>BI & Dashboards</b>
-  <br>
+  <b style="display: block; margin-top: 14px; margin-bottom: 4px;">BI & Dashboards</b>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" hspace="2" vspace="3" />
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-looker-studio&logoColor=white" hspace="2" vspace="3" />
 </div>
