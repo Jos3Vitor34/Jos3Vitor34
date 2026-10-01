@@ -162,13 +162,12 @@ The project includes:
 ### Junior Developer — ESC Automações Digitais Ltda.
 *June 2024 – January 2026*
 
-- Built WhatsApp automation workflows using **n8n and REST APIs**, integrating external services and AI models.
-- Developed chatbots and automated customer service workflows.
-- Integrated APIs and manipulated structured JSON data between different systems.
-- Automated spreadsheets, reports, and operational workflows to reduce repetitive manual work.
-- Worked with SQL databases for querying, maintaining, and storing application data.
-- Created dashboards and data integrations for operational monitoring.
-- Used Git and GitHub for source control and project maintenance.
+- Built WhatsApp automation workflows using **n8n, REST APIs, and OpenAI models**, improving response speed and contributing to an **approximately 20% increase in lead-to-sale conversion**.
+- Generated **more than R$ 10,000 in monthly operational savings for clients** by developing a process for structuring and approving WhatsApp API message templates under the **Utility** category, reducing messaging costs.
+- Integrated external systems through **REST APIs and JSON data processing**, while developing optimized landing pages that contributed to a **15% increase in lead conversion rates**.
+- Improved reporting and system performance by **approximately 30%** through database modeling and optimization of complex **SQL queries**.
+- Saved the management team **approximately 20 hours per week** by replacing manual spreadsheet workflows with real-time **Google Looker Studio dashboards** for cost and KPI monitoring.
+- Used **Git and GitHub** for source control, maintenance, and collaboration across development projects.
 
 ---
 
