@@ -3,7 +3,7 @@
   <strong>🇧🇷 Português</strong>
 </p>
 
-# Olá, eu sou José Vitor! 👋
+# Olá, eu sou o José Vitor! 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-Backend%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Desenvolvedor Python Backend" />
@@ -187,7 +187,7 @@ Centro Universitário Leonardo da Vinci — UNIASSELVI
 ## 🌎 Idiomas
 
 - 🇧🇷 **Português:** Nativo
-- 🇺🇸 **Inglês:** Leitura técnica avançada e escrita de documentação e relatórios técnicos
+- 🇺🇸 **Inglês:** Leitura técnica avançada, escrita de documentação e relatórios técnicos
 
 ---
 
